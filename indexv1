@@ -1,0 +1,41 @@
+<!-- Başlık Kodu -->
+<h1>Mert Sezer</h1>
+<!-- Alt Başlık Kodu -->
+<h2>Hakkımda</h2>
+<!-- Paragraf Kodu -->
+<p>
+    Merhaba,
+    Ben <strong> Mert Sezer </strong>. Veri Alanında ilerlerken ilgimi çekmediğini farkettiğim ve ilgimi çeken kısmın web geliştirme olduğunu farketmem üzerine buradayım. Üniversite Yönetim Bilişim Sistemleri Son Sınıf Öğrencisiyim.
+    
+</p>
+<h3>İlgi Alanlarım</h3>
+<div>
+<ol>
+    <li>Film
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt6628102/" target="_blank">Ahlat Ağacı</a></li>
+            <li>Bir Zamanlar Anadoluda</li>
+            <li>Kuru Otlar Üstünde</li>
+        </ul>
+    </li>
+    <li>Dizi
+        <ul>
+            <li><a href="https://www.imdb.com/title/tt0903747/?ref_=nv_sr_srsg_1_tt_7_nm_0_q_Breaking" target="_blank">Breaking Bad</a></li>
+            <li>Family Guy</li>
+            <li>Şahsiyet</li>
+        </ul>
+    </li>
+    <li>Kitap
+        <ul>
+            <li><a href ="https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban?from_search=true&from_srp=true&qid=H5tGQ8jtnE&rank=1" target="_blank">Harry Potter Askaban Tutsağı</a></li>
+            <li>Ece Ayhan Şiirimiz mor külhanidir abiler</li>
+            <li>Ahmet Arif Hasretinden Prangalar Eskittim</li>
+        </ul>
+    </li>
+</ol>
+</div>
+
+<h2>Sevdiğim Diziler</h2>
+<h3><em> Breaking Bad </em></h3>
+<img src="https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a27023af9e0d134b666ed07b2676009eb1e575b910335a22e98ac7b1a1505f25._RI_TTW_SX720_FMjpg_.jpg" alt="BB">
+<p>Breaking Bad, tüm zamanların en iyi yabancı dizisidir.</p>
